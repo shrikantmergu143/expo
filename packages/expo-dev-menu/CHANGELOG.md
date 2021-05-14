@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Fixed spamming profile or settings pushes multiple screens.
+
 ### 💡 Others
 
 ## 0.5.1 — 2021-05-12
